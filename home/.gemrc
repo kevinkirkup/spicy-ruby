@@ -1,0 +1,11 @@
+--- 
+:benchmark: false
+gemcutter_key: 0ab7e19c3ea884ce18819c6858ee22b1
+:verbose: true
+:backtrace: false
+:update_sources: true
+:sources: 
+- http://gemcutter.org
+- http://rubygems.org
+- http://gems.github.com
+:bulk_threshold: 1000

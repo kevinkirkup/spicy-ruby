@@ -1,0 +1,7 @@
+
+# Auto list sources
+set autolist 1
+
+# List 30 lines
+set listsize 30
+
