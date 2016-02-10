@@ -1,3 +1,5 @@
+require 'debugger'
+require 'debugger/completion'
 
 # Auto list sources
 set autolist 1
